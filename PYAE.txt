@@ -1,4 +1,5 @@
 
 <Version" 1.01>
 Adding more skills to core character classes. Currently, Only the Spellsword class is playable, and there are a few levels in development. Currently running ebugs on current material before progressing to next update, which will include a few more completed quests, work on the Guncaster class, and more debug runs. This is naturally goig to take time to complete, but expect regular updates.
+/data.Upadate 1.01.zip https://wordpress.org/Update 1.01.zip
 <End of Version>
